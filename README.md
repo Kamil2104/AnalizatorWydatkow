@@ -2,6 +2,8 @@
 
 Aplikacja do zarządzania wydatkami z interfejsem graficznym stworzonym w Qt.
 
+> Projekt realizowany na 1. semestrze 1. roku przedmiotu **Wprowadzenie do programowania** — w pełni w C++ z wykorzystaniem Qt.
+
 ## Wymagania
 
 - Qt 5 lub Qt 6
