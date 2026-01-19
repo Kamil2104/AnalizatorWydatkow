@@ -1,4 +1,4 @@
-# Menedżer Wydatków - Aplikacja GUI
+# Analizator Wydatków - Aplikacja GUI
 
 Aplikacja do zarządzania wydatkami z interfejsem graficznym stworzonym w Qt.
 
