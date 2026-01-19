@@ -1,0 +1,25 @@
+.DS_Store
+
+# Build artifacts
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.exe
+main
+
+# Debug/IDE
+.vscode/
+*.dSYM/
+
+# Qt / qmake / moc / build outputs
+.qmake.stash
+moc_*.cpp
+moc_*.h
+Makefile
+
+# App bundles (macOS build output)
+*.app/
+
+
